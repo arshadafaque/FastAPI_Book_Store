@@ -16,7 +16,7 @@ This project implements secure user authentication, book CRUD operations, and da
 ---
 
 ## 🛠 Tech Stack
-- **Backend Framework**: FastAPI (Python 3.9/3.10)  
+- **Backend Framework**: FastAPI (Python 3.9)  
 - **Database**: PostgreSQL  
 - **ORM**: SQLAlchemy  
 - **Migrations**: Alembic  
@@ -26,4 +26,3 @@ This project implements secure user authentication, book CRUD operations, and da
 
 ---
 
-## 📂 Project Structure
